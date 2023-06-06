@@ -15,7 +15,7 @@ This guide serves as a roadmap or overview for my portfolio. Its purpose is to p
 ## Python
 | Project Name / Link  | Domain(s) | Project Description|
 | ------------- | ------------- | ------------- |
-| [The Effect of Demographic and Health Factors on Medical Insurance Costs](https://github.com/DeborahAkpoguma/Portfolio/tree/main/Python/Project%201%20-%20Medical%20Insurance%20Costs)  | Health, Insurance | This project aims to identify how several demographic and health factors impact the cost of medical insurance.|
+| [The Effect of Demographic and Health Factors on Medical Insurance Costs](https://github.com/DeborahAkpoguma/Portfolio/blob/main/Python/Project%201%20-%20Medical%20Insurance%20Costs/The%20Effect%20of%20Factors%20on%20Medical%20Insurance%20Costs.ipynb)  | Health, Insurance | This project aims to identify how several demographic and health factors impact the cost of medical insurance.|
 
 ## Tableau 
 | Project Name / Link  | Domain(s) | Project Description|
