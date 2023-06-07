@@ -7,10 +7,10 @@ This guide serves as a roadmap or overview for my portfolio. Its purpose is to p
 - [Python](https://github.com/DeborahAkpoguma/Portfolio-Guide/edit/main/README.md#python)
 - [Tableau](https://github.com/DeborahAkpoguma/Portfolio-Guide/edit/main/README.md#tableau)
 
-<!-- ## SQL
+SQL
 | Project Name / Link  | Domain(s) | Project Description|
 | ------------- | ------------- | ------------- |
-| The Effect of Demographic and Health Factors on Medical Insurance Costs  | Health, Insurance | This project aims to identify how several demographic and health factors impact the cost of medical insurance.| -->
+| [Exploring Employee Data](https://github.com/DeborahAkpoguma/Portfolio/blob/main/SQL/Project%204/README.md) | Business, Human Resources | This project aims to explore employee demographics, employment history, and termination details.| 
 
 ## Python
 | Project Name / Link  | Domain(s) | Project Description|
