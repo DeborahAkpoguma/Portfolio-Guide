@@ -15,10 +15,10 @@ SQL
 ## Python
 | Project Name / Link  | Domain(s) | Project Description|
 | ------------- | ------------- | ------------- |
-| [The Effect of Demographic and Health Factors on Medical Insurance Costs](https://github.com/DeborahAkpoguma/Portfolio/blob/main/Python/Project%201%20-%20Medical%20Insurance%20Costs/The%20Effect%20of%20Factors%20on%20Medical%20Insurance%20Costs.ipynb)  | Health, Insurance | This project aims to identify how several demographic and health factors impact the cost of medical insurance.|
+| [The Effect of Demographic and Health Factors on Medical Insurance Costs](https://github.com/DeborahAkpoguma/Portfolio/blob/main/Python/Project%201%20-%20Medical%20Insurance%20Costs/The%20Effect%20of%20Factors%20on%20Medical%20Insurance%20Costs.ipynb) | Health, Insurance | This project aims to identify how several demographic and health factors impact the cost of medical insurance.|
 
 ## Tableau 
 | Project Name / Link  | Domain(s) | Project Description|
 | ------------- | ------------- | ------------- |
 | [The Effect of Demographic and Health Factors on Medical Insurance Costs](https://public.tableau.com/app/profile/deborah.akpoguma/viz/MedicalCosts_16855893788920/MedicalCosts) | Health, Insurance | This project aims to identify how several demographic and health factors impact the cost of medical insurance.|
-
+| [Exploring the Relationship between Terminations and Employee Demographic Factors](https://public.tableau.com/app/profile/deborah.akpoguma/viz/ExploringtheRelationshipbetweenTerminationsandEmployeeDemographicFactors/Dashboard1?publish=yes)| Business, Human Resources| This project aims to explore the relationship between employee demographic factors and company terminations.|
