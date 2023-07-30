@@ -3,9 +3,10 @@
 This guide serves as a roadmap or overview for my portfolio. Its purpose is to provide context, highlight key information, and guide the viewer through my work effectively.
 
 ## Table of Contents
-- [SQL](https://github.com/DeborahAkpoguma/Portfolio-Guide/main/README.md#sql)
-- [Python](https://github.com/DeborahAkpoguma/Portfolio-Guide/main/README.md#python)
-- [Tableau](https://github.com/DeborahAkpoguma/Portfolio-Guide/main/README.md#tableau)
+- [SQL](#SQL)
+- [Python](#Python)
+- [Tableau](#Tableau)
+
 
 ## SQL
 | Project Name / Link  | Domain(s) | Project Description|
