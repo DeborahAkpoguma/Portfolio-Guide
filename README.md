@@ -3,11 +3,11 @@
 This guide serves as a roadmap or overview for my portfolio. Its purpose is to provide context, highlight key information, and guide the viewer through my work effectively.
 
 ## Table of Contents
-- [SQL](https://github.com/DeborahAkpoguma/Portfolio-Guide/edit/main/README.md#sql)
-- [Python](https://github.com/DeborahAkpoguma/Portfolio-Guide/edit/main/README.md#python)
-- [Tableau](https://github.com/DeborahAkpoguma/Portfolio-Guide/edit/main/README.md#tableau)
+- [SQL](https://github.com/DeborahAkpoguma/Portfolio-Guide/main/README.md#sql)
+- [Python](https://github.com/DeborahAkpoguma/Portfolio-Guide/main/README.md#python)
+- [Tableau](https://github.com/DeborahAkpoguma/Portfolio-Guide/main/README.md#tableau)
 
-SQL
+## SQL
 | Project Name / Link  | Domain(s) | Project Description|
 | ------------- | ------------- | ------------- |
 | [Exploring Employee Data](https://github.com/DeborahAkpoguma/Portfolio/blob/main/SQL/Project%204/README.md) | Business, Human Resources | This project aims to explore employee demographics, employment history, and termination details.| 
@@ -21,4 +21,4 @@ SQL
 | Project Name / Link  | Domain(s) | Project Description|
 | ------------- | ------------- | ------------- |
 | [The Effect of Demographic and Health Factors on Medical Insurance Costs](https://public.tableau.com/app/profile/deborah.akpoguma/viz/MedicalCosts_16855893788920/MedicalCosts) | Health, Insurance | This project aims to identify how several demographic and health factors impact the cost of medical insurance.|
-| [Exploring the Relationship between Terminations and Employee Demographic Factors](https://public.tableau.com/app/profile/deborah.akpoguma/viz/ExploringtheRelationshipbetweenTerminationsandEmployeeDemographicFactors/Dashboard?publish=yes)| Business, Human Resources| This project aims to explore the relationship between employee demographic factors and company terminations.| 
+| [Exploring the Relationship between Terminations and Employee Demographic Factors](https://public.tableau.com/app/profile/deborah.akpoguma/viz/ExploringtheRelationshipbetweenTerminationsandEmployeeDemographicFactors/Dashboard?publish=yes)| Business Intelligence, Human Resources| This project aims to explore the relationship between employee demographic factors and company terminations.| 
